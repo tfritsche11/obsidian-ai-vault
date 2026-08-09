@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386.69140625
   },
   "right": {
     "id": "8af9dee92818cffb",
@@ -169,6 +169,16 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ec09f7e319f30136",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -179,6 +189,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -190,8 +202,10 @@
   },
   "active": "5482f9285d930d43",
   "lastOpenFiles": [
+    "70 Templates/Health Record.md",
+    "70 Templates/Vaccination.md",
+    "AGENTS.md",
     "STYLE_GUIDE.md",
-    "README.md",
-    "AGENTS.md"
+    "README.md"
   ]
 }
